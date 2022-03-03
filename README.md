@@ -24,14 +24,14 @@ Además del proyecto <strong>“Project_DE-TTD-03”</strong> se ha dejado en <i
 ## Requerimientos de uso
 
 <div align="justify">
-El <strong>“Project_DE-TTD-03”</strong> es un proyecto de prueba que permite la ejecución de una serie de test unitarios, desarrollado con base en las siguiente tecnologías:
+El <strong>“Project_DE-TTD-03”</strong> es un proyecto de prueba que permite la ejecución de una serie de test unitarios, para el cual se hizo uso de las siguientes tecnologías:
 </div>
 
 ||Versión|
 |------|-----|
-|<strong>JUnit</strong>|>= 5|
-|<strong>Java SE</strong>|>= Kit 17.0.2|
-|<strong>Eclipse IDE</strong>|>= 2021-12 (4.22.0)|
+|<strong>JUnit</strong>|5|
+|<strong>Java SE</strong>|Kit 17.0.2|
+|<strong>Eclipse IDE</strong>|2021-12 (4.22.0)|
 
 *******
 ## Créditos
