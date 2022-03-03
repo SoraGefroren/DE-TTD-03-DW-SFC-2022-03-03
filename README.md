@@ -10,14 +10,14 @@ El proyecto original <strong>“DE-TTD-03”</strong> fue rehecho para poder eje
 ## Nota adicional
 
 <div align="justify">
-Además del proyecto <strong>“Project_DE-TTD-03”</strong> se ha dejado en <italic>“Originales_DE-TTD-03”</italic>, los archivos resueltos del proyecto original del <italic>“Test Técnico Desarrollador Web”</italic> de <italic>“Solución Factible Consultores”</italic>. En done se encuentra lo siguiente:
+Además del proyecto <strong>“Project_DE-TTD-03”</strong> se ha dejado en <i>“Originales_DE-TTD-03”</i>, los archivos resueltos del proyecto original del <i>“Test Técnico Desarrollador Web”</i> de <i>“Solución Factible Consultores”</i>. En done se encuentra lo siguiente:
 </div>
 
 </br>
 <ul>
-  <li><div align="justify"><italic>Originales_DE-TTD-03\de-ttd-03-javaproject-resuelto:</italic> Proyecto original compuesto para servir como un proyecto de Java.
+  <li><div align="justify"><i>Originales_DE-TTD-03\de-ttd-03-javaproject-resuelto:</i> Proyecto original compuesto para servir como un proyecto de Java.
   </div></li>
-  <li><div align="justify"><italic>Originales_DE-TTD-03\de-ttd-03-maevan-resuelto:</italic> Proyecto original sin alteraciones más que lo solicitado en el test.
+  <li><div align="justify"><i>Originales_DE-TTD-03\de-ttd-03-maevan-resuelto:</i> Proyecto original sin alteraciones más que lo solicitado en el test.
   </div></li>
 </ul>
 
